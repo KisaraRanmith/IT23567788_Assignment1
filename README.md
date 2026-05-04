@@ -3,6 +3,7 @@ Automated Testing for Singlish to Sinhala Transliteration System
 
 ##  Repository
 
+https://github.com/KisaraRanmith/IT23567788_Assignment1.git
 
 ---
 
@@ -11,7 +12,7 @@ Automated Testing for Singlish to Sinhala Transliteration System
 IT3040_Assignment_1/
 
 - test_automation.py           → Playwright automation script  
-- Test cases.xlsx              → Excel file with test cases & results  
+- IT23567788 - Test cases.xlsx → Excel file with test cases & results  
 - requirements.txt             → Python dependencies  
 - README.md                    → Project documentation  
 - venv/ (optional)             → Virtual environment (not required)
@@ -38,7 +39,7 @@ IT3040_Assignment_1/
    playwright install  
 
 4. Run the automation script  
-   python test_automation.py --excel "IT - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator"  
+   python test_automation.py --excel "IT23567788_Assignment 1 - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator"  
 
 ---
 
